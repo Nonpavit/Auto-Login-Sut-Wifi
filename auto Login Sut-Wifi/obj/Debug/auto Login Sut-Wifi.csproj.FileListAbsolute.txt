@@ -1,0 +1,11 @@
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\bin\Debug\auto Login Sut-Wifi.exe.config
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\bin\Debug\auto Login Sut-Wifi.exe
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\bin\Debug\auto Login Sut-Wifi.pdb
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto Login Sut-Wifi.csprojResolveAssemblyReference.cache
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto_Login_Sut_Wifi.Form1.resources
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto_Login_Sut_Wifi.Properties.Resources.resources
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto Login Sut-Wifi.csproj.GenerateResource.Cache
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto Login Sut-Wifi.exe
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto Login Sut-Wifi.pdb
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto_Login_Sut_Wifi.About.resources
+c:\users\snailbot\documents\visual studio 2015\Projects\auto Login Sut-Wifi\auto Login Sut-Wifi\obj\Debug\auto_Login_Sut_Wifi.settings.resources
